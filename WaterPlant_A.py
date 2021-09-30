@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
-'WaterPlant v1.0'
+'WaterPlant_A'
 __author__ = 'Robert Chen'
 
 
