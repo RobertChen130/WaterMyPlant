@@ -1,6 +1,11 @@
-# WaterPlant_A is based on the WaterPlant_Test
-# the major diffirences between two program is that WaterPlant_A can upload moisture after test the moisture of soil 
-# and record the time point that water the planet
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+
+'WaterPlant v1.0'
+__author__ = 'Robert Chen'
+
+
+## WaterPlant_A is based on the WaterPlant_Test. The major diffirences between two program is that WaterPlant_A can upload moisture after test the moisture of soil and record the time point that water the planet
 
 import time
 import datetime
